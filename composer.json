@@ -1,18 +1,8 @@
 {
   "name": "policyflow/admin-theme",
-  "description": "Admin theme for PolicyFlow Drupal platform, optimized for backend workflows and UI consistency.",
+  "description": "Drupal theme for PolicyFlow admin portal",
   "type": "drupal-theme",
   "license": "Apache-2.0",
-  "autoload": {
-    "psr-4": {
-      "Drupal\\admin_theme\\": "src/"
-    }
-  },
-  "extra": {
-    "branch-alias": {
-      "dev-main": "1.0.x-dev"
-    }
-  },
-  "minimum-stability": "dev",
+  "minimum-stability": "stable",
   "prefer-stable": true
 }

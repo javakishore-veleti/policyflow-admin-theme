@@ -3,11 +3,7 @@
   "description": "Drupal theme for PolicyFlow admin portal",
   "type": "drupal-theme",
   "license": "Apache-2.0",
+  "version": "1.0.2",
   "minimum-stability": "dev",
-  "prefer-stable": true,
-  "autoload": {
-    "psr-4": {
-      "Drupal\\admin_theme\\": "src/"
-    }
-  }
+  "prefer-stable": true
 }
